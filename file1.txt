@@ -1,9 +1,4 @@
-This line is added from Github.com
 File 1
 Line 2
 Line 3
-Line 4
-Line 5
-Line 6
-File 1 is updated
-File 1 is updated again !
+
